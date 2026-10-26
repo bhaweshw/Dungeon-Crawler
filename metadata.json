@@ -1,0 +1,6 @@
+{
+  "name": "Dungeon Exile - 3D Procedural ARPG",
+  "description": "Third-person procedural dungeon crawler with skill tree specialization, deep modular crafting, dynamic loot economy, trading outpost, and smooth combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
